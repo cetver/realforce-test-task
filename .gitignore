@@ -1,0 +1,11 @@
+##
+# JetBrains IDE files
+##
+
+/.idea
+
+##
+# Composer files
+##
+
+/vendor
